@@ -1,5 +1,7 @@
 package ru.dyv.model;
 
+import ru.dyv.controller.Domino;
+
 // класс "Камни"
 // содержит абстрактные методы
 public class Stones {

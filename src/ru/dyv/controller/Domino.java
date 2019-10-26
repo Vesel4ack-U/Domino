@@ -1,4 +1,7 @@
-package ru.dyv.model;
+package ru.dyv.controller;
+
+import ru.dyv.model.Chip;
+import ru.dyv.model.Stones;
 
 // главный класс проекта
 public class Domino {
