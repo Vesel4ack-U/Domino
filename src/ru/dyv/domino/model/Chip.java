@@ -1,4 +1,4 @@
-package ru.dyv.model;
+package ru.dyv.domino.model;
 
 // класс "Фишка"
 // содержит описание структуры

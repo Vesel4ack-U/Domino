@@ -1,6 +1,6 @@
-package ru.dyv.model;
+package ru.dyv.domino.model;
 
-import ru.dyv.controller.Domino;
+import ru.dyv.domino.controller.Domino;
 
 // класс "Камни"
 // содержит абстрактные методы

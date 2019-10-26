@@ -1,9 +1,9 @@
-package ru.dyv.controller;
+package ru.dyv.domino.controller;
 
 import java.util.ArrayList;
 
-import ru.dyv.model.ChainLink;
-import ru.dyv.model.Chip;
+import ru.dyv.domino.model.ChainLink;
+import ru.dyv.domino.model.Chip;
 
 // класс "Кон"
 public class Round {

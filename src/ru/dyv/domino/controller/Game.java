@@ -1,6 +1,6 @@
-package ru.dyv.controller;
+package ru.dyv.domino.controller;
 
-import ru.dyv.model.Stones;
+import ru.dyv.domino.model.Stones;
 
 // класс Игра
 public class Game {

@@ -1,4 +1,4 @@
-package ru.dyv.model;
+package ru.dyv.domino.model;
 
 // класс "Звено цепочки ходов"
 public class ChainLink {
