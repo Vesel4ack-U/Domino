@@ -1,2 +1,2 @@
 # Domino
-Domino project
+Game Domino, type "Kozel", two on two
